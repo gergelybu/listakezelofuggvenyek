@@ -9,3 +9,7 @@ export function rendezBarmiSzerint(lista, kulcs, irany) {
   });
   console.log(lista);
 }
+
+/** filter - szűrés
+ * új listát hoz létre, szűrési feltétel
+ */
